@@ -9,7 +9,7 @@ Topic: Ocean
 ## [Lab 7:](https://github.com/jamesce44/magd150/blob/master/f18_magd150_lab07_Eason.zip)
 Topic: Nature
 >In this lab, I created a tree in which has leaves that follow your cursor. I created a class object for each leaf called *chirp* (I initially wanted birds but decided to change my mind) in which is called by an array which decides the specific amount of leaves. I also made the leaves to change shape depending on which direction they head by checking if the velocity is positive or negative.
-## Lab 8:
+## [Lab 8:](https://github.com/jamesce44/magd150/blob/master/f18_magd150_lab08_Eason.zip)
 Topic: Movie Poster
 >In this lab, I created a movie poster in which spoofs the political situation with Russia as an action flick (it's a joke, get over it). I created text that moves across the screen stating who stars in the film, when it releases, and who it was directed by. You can screenshot the poster by left clicking within the window.
 ## Lab 9:
