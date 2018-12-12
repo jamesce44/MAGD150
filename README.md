@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/jamesce44/magd150/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jamesce44/magd150/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# ***MAGD 150 GitHub***
+### All of my assignments and work for my Media Arts and Game Development class are found in this.
+## Lab 3:
+Topic: Bubbles
+>In this lab, I created *bubbles* by allowing the person running the application to left click to place a circle and to right click in order to erase (pop) what was created, all while printing the coordinates when placed or popped. I also created a function to allow the user to hit the key **C** on the keyboard in order to print current coordinates without actually doing anything with bubbles.
+## Lab 4:
+Topic: Ocean
+>In this lab, I created a *wave* in which is created by left clicking. In addition, I created a boat when the person running the application hits the key **B**. In addition, when the wave collides with the boat, the boat deletes itself, as it would appear to have been destroyed by the wave.
+## Lab 7:
+Topic: Nature
+>In this lab, I created a tree in which has leaves that follow your cursor. I created a class object for each leaf called *chirp* (I initially wanted birds but decided to change my mind) in which is called by an array which decides the specific amount of leaves. I also made the leaves to change shape depending on which direction they head by checking if the velocity is positive or negative.
+## Lab 8:
+Topic: Movie Poster
+>In this lab, I created a movie poster in which spoofs the political situation with Russia as an action flick (it's a joke, get over it). I created text that moves across the screen stating who stars in the film, when it releases, and who it was directed by. You can screenshot the poster by left clicking within the window.
+## Lab 9:
+Topic: Documentary
+>In this lab, I created a video within the window which was a clip from Snoop Dogg's Plizzanet Earth on Jimmy Kimmel Live! It was playing with a higher amplitude, in which you could change by hitting specific keys on the keyboard. Also, if you clicked on the picture of the seal, it would play a really, REALLY loud scream that might hurt your ears if you are wearing headphones.
