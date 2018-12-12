@@ -6,3 +6,12 @@ Topic: Bubbles
 ## Lab 4:
 Topic: Ocean
 >In this lab, I created a *wave* in which is created by left clicking. In addition, I created a boat when the person running the application hits the key **B**. In addition, when the wave collides with the boat, the boat deletes itself, as it would appear to have been destroyed by the wave.
+## Lab 7:
+Topic: Nature
+>In this lab, I created a tree in which has leaves that follow your cursor. I created a class object for each leaf called *chirp* (I initially wanted birds but decided to change my mind) in which is called by an array which decides the specific amount of leaves. I also made the leaves to change shape depending on which direction they head by checking if the velocity is positive or negative.
+## Lab 8:
+Topic: Movie Poster
+>In this lab, I created a movie poster in which spoofs the political situation with Russia as an action flick (it's a joke, get over it). I created text that moves across the screen stating who stars in the film, when it releases, and who it was directed by. You can screenshot the poster by left clicking within the window.
+## Lab 9:
+Topic: Documentary
+>In this lab, I created a video within the window which was a clip from Snoop Dogg's Plizzanet Earth on Jimmy Kimmel Live! It was playing with a higher amplitude, in which you could change by hitting specific keys on the keyboard. Also, if you clicked on the picture of the seal, it would play a really, REALLY loud scream that might hurt your ears if you are wearing headphones.
